@@ -1,0 +1,32 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+  min-width: 200px;
+  height: 100vh;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.mat-card {
+  width: 100%;
+  height: auto;
+}
+
+.mat-checkbox {
+  display: flex;
+  padding: 10px;
+}
+
+input {
+  padding: 10px;
+}
+
+.formInput {
+  display: flex;
+  flex-direction: column;
+}
+
+.mat-card-footer p {
+  padding-left: 10px;
+}
