@@ -1,0 +1,10 @@
+.content {
+  background: #999;
+
+}
+
+.custom-card {
+  background-color: #fff;
+  margin: 50px auto;
+  max-width: 300px;
+}
