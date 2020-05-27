@@ -1,0 +1,13 @@
+mat-card {
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-section button {
+  margin: 0 auto;
+}

@@ -1,0 +1,19 @@
+mat-card {
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+.form-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.form-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-section button {
+  margin: 0 auto;
+}

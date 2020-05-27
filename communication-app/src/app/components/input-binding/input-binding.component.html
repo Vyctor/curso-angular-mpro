@@ -1,0 +1,13 @@
+<p>
+  First Name: {{name}}
+  Last Name: {{lastName}}
+  Age: {{age}}
+</p>
+
+
+<h1>My Clients</h1>
+
+<div>
+  <app-client *ngFor="let client of clients" [client]="client">
+  </app-client>
+</div>
