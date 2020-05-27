@@ -1,0 +1,16 @@
+body {
+  margin: 0 auto;
+}
+
+.myCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+.myCard img {
+  max-width: 200px;
+}
